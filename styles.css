@@ -29,7 +29,7 @@ li {
     text-align: center;
 }
 .shaded {
-    background-color: #0e7490;
+    background-color: #94a3b8;
     width:76%;
     margin-left: 8vw;
     border-radius: 1vw;
@@ -82,6 +82,6 @@ a::after {
 }
 .shaded-btn {
     background-color: #0e7490;
-    border: 1px dotted #0e7490;
+    border: 1px dotted rgb(240, 248, 255);
     color: aliceblue;
 }
