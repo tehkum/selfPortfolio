@@ -60,7 +60,8 @@ footer {
     width:80%;
 }
 #img-self {
-    margin-left: 9vw;
+    clip-path: circle();
+    width: 30%;
 }
 button {
     padding: 7px;
@@ -86,8 +87,12 @@ a::after {
     color: aliceblue;
 }
 footer {
-    position: absolute;
-    left: 0%;
-    bottom: 0%;
+    position:relative;
+    left: 0;
+    bottom: 0;
     color: white;
-    text-align: center;}
+    text-align: center;
+}
+.intro {
+    margin-left: 7%;
+}
