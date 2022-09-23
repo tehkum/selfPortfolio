@@ -19,12 +19,12 @@ nav {
     font-size: larger;
     font-weight: bold;
 }
-ul {
+nav ul {
     list-style: none;
     text-align: right;
     color: black;
 }
-li {
+nav li {
     display: inline-block;
     text-align: left;
     padding: 1vw;
@@ -119,4 +119,13 @@ a:hover {
         text-align: center;
     }
     
+}
+ul{
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 10px;
 }
