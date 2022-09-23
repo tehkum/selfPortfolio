@@ -85,3 +85,9 @@ a::after {
     border: 1px dotted aliceblue;
     color: aliceblue;
 }
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    color: white;
+    text-align: center;}
