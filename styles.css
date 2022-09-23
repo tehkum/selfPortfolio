@@ -98,3 +98,23 @@ a:hover {
 .intro {
     margin-left: 7%;
 }
+@media(max-width: 650px){
+    .box1 {
+        flex-direction: column;        
+    }
+    #img-self {
+        height: auto;
+        display: inline-block;
+        width: 150px;
+        border-radius: 50%;
+    
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        margin-left: 30%;
+    }
+    .intro {
+        text-align: center;
+    }
+    
+}
