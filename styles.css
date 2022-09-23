@@ -113,7 +113,7 @@ a:hover {
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
-        margin-left: 30%;
+        margin: auto;
     }
     .intro {
         text-align: center;
