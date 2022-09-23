@@ -43,7 +43,7 @@ li {
     color: aliceblue;
 }
 .unshaded {
-    margin-left: 0 8%;
+    margin: 0 8%;
     border-radius: 1vw;
     padding: 2vw;
 }
@@ -98,9 +98,6 @@ a:hover {
     color: aliceblue;
 }
 
-.intro {
-    margin-left: 7%;
-}
 @media(max-width: 650px){
     .box1 {
         flex-direction: column;        
