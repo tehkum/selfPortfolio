@@ -82,13 +82,13 @@ button:hover {
 }
 a {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 a:visited {
-    color: black;
+    color: white;
 }
 a:hover {
-    color: white;
+    color: #94a3b8;
 }
 .logo-one {
     width: 100px;
