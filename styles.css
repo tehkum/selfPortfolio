@@ -75,6 +75,7 @@ button {
     padding: 7px;
     border-radius: 1vw;
     border: 1px solid #0e7490;
+    color:black;
 }
 button:hover {
     background-color: blue;
@@ -82,13 +83,13 @@ button:hover {
 }
 a {
     text-decoration: none;
-    color: white;
+    color: #94a3b8;
 }
 a:visited {
-    color: white;
+    color: #94a3b8;
 }
 a:hover {
-    color: #94a3b8;
+    color: white;
 }
 .logo-one {
     width: 100px;
@@ -99,7 +100,9 @@ a:hover {
     border: 1px solid aliceblue;
     color: aliceblue;
 }
-
+.unshaded-btn {
+    color: black;
+}
 @media(max-width: 650px){
     .box1 {
         flex-direction: column;        
