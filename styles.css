@@ -70,7 +70,7 @@ footer {
     display: inline-block;
     width: 27vw;
     border-radius: 50%;
-
+    padding: 20px;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -87,12 +87,9 @@ button:hover {
 }
 a {
     text-decoration: none;
-    color: #94a3b8;
+    color: white;
 }
 a:visited {
-    color: #94a3b8;
-}
-a:hover {
     color: white;
 }
 .logo-one {
@@ -105,7 +102,8 @@ a:hover {
     color: aliceblue;
 }
 .unshaded-btn {
-    color: black;
+    background-color: #5eead4;
+    border: none;
 }
 @media(max-width: 650px){
     .box1 {
@@ -135,4 +133,7 @@ ul{
 li {
     display: inline;
     padding: 10px;
+}
+.intro {
+    padding: 20px;
 }
