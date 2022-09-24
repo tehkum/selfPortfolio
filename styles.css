@@ -5,7 +5,11 @@ html, body {
     height: 100%;
     font-family: arial, helvetica, sans-serif;
 }
-
+#overview{
+    width: 50vw;
+    align-items: center;
+    margin: auto;
+}
 nav {
     background-color: #0e7490;
     border-bottom-left-radius: 1vw;
